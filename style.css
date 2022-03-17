@@ -18,3 +18,7 @@ padding-bottom: 20px;
 p {
     margin-bottom: 30px;
 }
+
+.bg-dark {
+    background-color: #1d314c !important;
+}
